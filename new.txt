@@ -1,0 +1,4 @@
+ FIO - BAV
+ age - 33
+ number of pets - 1
+ future desired salary - 1088
